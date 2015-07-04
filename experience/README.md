@@ -1,3 +1,3 @@
 # Elixir Experience
 
-Trying to solve some [Elixir Experince](http://elixirexperience.com/) problems.
+Trying to solve some [Elixir Experience](http://elixirexperience.com/) problems.
